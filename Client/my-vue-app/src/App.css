@@ -1,0 +1,6 @@
+/* App.css */
+.signup-background {
+  background-image: url('../src/Image/Signup\ background.jpg');
+  background-size: cover;
+  background-position: center;
+}
